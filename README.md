@@ -24,7 +24,7 @@ $ python ex3.py
 
 Python 3.10
 
-[TensorFlow](https://www.tensorflow.org) 2.5.0
+[TensorFlow](https://www.tensorflow.org) 2.8
 
 Tested on MacBook Pro (15-inch, 2017)
 
