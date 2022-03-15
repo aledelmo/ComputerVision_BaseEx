@@ -235,4 +235,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-resources/videos
+# dataset
+ex3/img
+ex3/tf_logs

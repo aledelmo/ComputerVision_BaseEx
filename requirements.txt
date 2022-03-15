@@ -1,7 +1,1 @@
-tensorflow
-opencv-python-headless
-scikit-learn
-scikit-image
-pandas
-seaborn
-tqdm
+#tensorflow # Not needed if dockerfile is used
