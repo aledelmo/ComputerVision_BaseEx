@@ -18,6 +18,10 @@ Describe an object tracking algorithm (excluding neural networks).
 
 Implementation of an image classification method using supervised learning techniques.
 
+## Exercise 4
+
+Algorithmic exercise in Python with notion of complexity
+
 ## Usage
 
 Scripts may be run as jupyter notebooks. In order to run the third exercise a GPU is necessary. Google
